@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dam:home|Door43 (dam)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dam|d43-dam repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dam/archive/master.zip|d43-dam.zip]]
+
+**Recent Changes**
+{{changes>ns = dam}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dam|Ethnologue data]]
+
